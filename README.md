@@ -1,2 +1,2 @@
 # prjGestorDeTarefas
-Gestor de tarefas desenvolvido em Java e o framework Spring.
+Gestor de tarefas desenvolvido em Java e framework Spring.
